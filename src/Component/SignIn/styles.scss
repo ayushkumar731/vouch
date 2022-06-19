@@ -1,0 +1,25 @@
+.meeting-img {
+  width: 100%;
+  height: 100vh;
+}
+
+.input-group {
+  width: 350px !important;
+  height: 56px;
+}
+
+.submit-btn {
+  width: 350px;
+  height: 56px;
+  border: none;
+  outline: none;
+  background-color: #08119b !important;
+  &:hover {
+    background-color: #08119b !important;
+  }
+}
+
+.spinner {
+  width: 1rem !important;
+  height: 1rem !important;
+}
